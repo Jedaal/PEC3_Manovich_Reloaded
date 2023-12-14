@@ -1,5 +1,6 @@
 # PEC3_Manovich_Reloaded
 PEC3_Manovich_Reloaded
+# La Hibridacion en los medios.
 # Waze
 
 Esta aplicación se ha convertido en una indispensable en muchos de los móviles en la actualidad. Se nutre de la información que van dando sus mismos usuarios y de ahí viene su grandeza.
