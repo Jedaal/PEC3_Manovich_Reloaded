@@ -1,3 +1,5 @@
+(DALL·E 2023-12-15 12.37.31 - A digital artwork depicting the names 'Waze' and 'Citymapper' positioned opposite each other with a central convergence point. .png)
+
 # PEC3_Manovich_Reloaded
 PEC3_Manovich_Reloaded
 # La Hibridacion en los medios.
