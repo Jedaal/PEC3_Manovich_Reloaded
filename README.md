@@ -1,4 +1,4 @@
-(DALL·E 2023-12-15 12.37.31 - A digital artwork depicting the names 'Waze' and 'Citymapper' positioned opposite each other with a central convergence point. .png)
+(https://github.com/Jedaal/PEC3_Manovich_Reloaded/blob/main/DALL%C2%B7E%202023-12-15%2012.37.31%20-%20A%20digital%20artwork%20depicting%20the%20names%20'Waze'%20and%20'Citymapper'%20positioned%20opposite%20each%20other%20with%20a%20central%20convergence%20point.%20.png)
 
 # PEC3_Manovich_Reloaded
 PEC3_Manovich_Reloaded
