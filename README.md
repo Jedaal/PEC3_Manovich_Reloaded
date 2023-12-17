@@ -99,6 +99,6 @@ Un mapa convencional te podría calcular la mejor ruta, pero no te sabe decir qu
 # Referencias y Bibliografía
 
 - Manovich, Lev. (2013). _El Software toma el mando_. Barcelona: Editorial UOC.
-- Xatakandroid Waze y GoogleMaps [https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion] (https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion)
+- Xatakandroid Waze y GoogleMaps:  [https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion] (https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion)
 
 
