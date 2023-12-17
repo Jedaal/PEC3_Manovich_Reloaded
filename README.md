@@ -1,4 +1,5 @@
-(logo.png)
+(PEC3_Manovich_Reloaded
+/logo.png)
 
 # PEC3_Manovich_Reloaded
 
