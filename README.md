@@ -51,11 +51,9 @@ La interfaz de usuario de Citymapper es un ejemplo de diseño interactivo y pers
 
 Citymapper muestra su hibridación de medios a través de su capacidad para integrarse con otras aplicaciones y servicios. Esto incluye la compatibilidad con calendarios para planificar viajes en función de eventos programados y la integración con servicios de transporte compartido. Esta conectividad ofrece una experiencia de usuario más holística y coherente, donde diferentes aspectos de la vida diaria y las tecnologías se unen de manera eficiente y útil.
 
-#Como entender la hibridacion.
+# Como entender la hibridacion.
 
 Podemos resumir de forma breve lo que en mi parecer Manovich quiere decirnos sobre la hibridacion en los medio de esta forma.
-
-# La Visión de Lev Manovich sobre la Hibridación en "El software toma el mando"
 
 1. **Convergencia Mediática:**
    Manovich destaca cómo el software permite la convergencia de diferentes medios, como texto, imagen, video y sonido, en plataformas y formatos digitales unificados. Esto lleva a la creación de experiencias mediáticas ricas y multidimensionales.
