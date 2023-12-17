@@ -1,10 +1,10 @@
 (https://github.com/Jedaal/PEC3_Manovich_Reloaded/blob/9b9f7c15e305e1ef395705bb89f3360583427b8a/DALL%C2%B7E%202023-12-15%2012.37.31%20-%20A%20digital%20artwork%20depicting%20the%20names%20'Waze'%20and%20'Citymapper'%20positioned%20opposite%20each%20other%20with%20a%20central%20convergence%20point.%20.png)
 
 # PEC3_Manovich_Reloaded
-PEC3_Manovich_Reloaded
-# La Hibridacion en los medios.
 
-# Como entender la hibridacion.
+# **La Hibridacion en los medios**.
+
+## Como entender la hibridacion.
 
 Podemos resumir de forma breve lo que en mi parecer Manovich quiere decirnos sobre la hibridacion en los medio de esta forma.
 
@@ -23,7 +23,7 @@ Podemos resumir de forma breve lo que en mi parecer Manovich quiere decirnos sob
 5. **Personalización y Datos:**
    Finalmente, Manovich discute cómo el software permite una personalización avanzada de experiencias mediáticas, utilizando algoritmos y análisis de datos para adaptar el contenido a las preferencias individuales de los usuarios.
 
-# Medios hibridados 
+# **Medios hibridados** 
 ## Waze y CityMaper
 
 Con estos dos ejemplos vamos a tratar de exponer que es la hibridacion y como la ve Manovich.
@@ -75,6 +75,7 @@ La interfaz de usuario de Citymapper es un ejemplo de diseño interactivo y pers
 ## Conectividad y Compatibilidad en Citymapper
 
 Citymapper muestra su hibridación de medios a través de su capacidad para integrarse con otras aplicaciones y servicios. Esto incluye la compatibilidad con calendarios para planificar viajes en función de eventos programados y la integración con servicios de transporte compartido. Esta conectividad ofrece una experiencia de usuario más holística y coherente, donde diferentes aspectos de la vida diaria y las tecnologías se unen de manera eficiente y útil.
+
 
 
 
