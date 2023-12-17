@@ -59,6 +59,7 @@ La gamificación y personalización en Waze representan un avance significativo 
 
 # CityMaper
 
+Personalemnte solo he usado esta aplicacion en Bruselas y me parecio de lo mas interesante para poder moverse con soltura por una ciudad desconocida. Repasmos sus puntos mas destacados.
 
 - ## Integración Multimodal de Transporte en Citymapper
 
