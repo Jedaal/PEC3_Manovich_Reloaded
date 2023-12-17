@@ -1,6 +1,7 @@
-![Logo](logo.png)
-
 # PEC3_Manovich_Reloaded
+
+
+![Logo](logo.png)
 
 # **La Hibridacion en los medios**.
 
