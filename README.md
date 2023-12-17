@@ -96,6 +96,8 @@ He destacado los aspectos más importantes y relevantes de cada aplicación y cr
 
 Un mapa convencional te podría calcular la mejor ruta, pero no te sabe decir que en el PK 150 de la A2 sentido Madrid hay un “vehículo detenido en el arcén mas adelante”. Y no solo eso, te permite participar de este evento indicando si sigue o no ahí. Al margen de lo rico que es esto para los conductores, nos tenemos que fijar en como se han fusionado las aplicaciones de mensajería instantánea. Un usuario ha puesto un aviso y te a llegado a ti y al resto de usuarios de **Waze** que van por esa misma ruta; las aplicaciones de orientación y mapas GPS. El mapa se ha modificado en tiempo real y si es necesario calculara una nueva ruta.
 
+Como nos dice Manovich _Hoy por hoy podemos describir uno de lo principales mecanismos que hay detras de la invencion de estos nuevos medios. Este mecanismo es la Hibridacion. Se agrupan tecnicas y formatos de representacion de medios fisicos y electronicos anteriores, y las nuevas tecnicas de manipulacion de la informacion y formatos de datos exclusiovos del ordenador para formar nuevas combinaciones_
+
 
 
 # Referencias y Bibliografía
