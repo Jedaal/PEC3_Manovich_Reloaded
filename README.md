@@ -29,6 +29,7 @@ Podemos resumir de forma breve lo que en mi parecer Manovich quiere decirnos sob
 Con estos dos ejemplos vamos a tratar de exponer que es la hibridacion y como la ve Manovich.
 
 # Waze
+![Logo](waze.jpng)
 
 Esta aplicación se ha convertido en una indispensable en muchos de los móviles en la actualidad. Se nutre de la información que van dando sus mismos usuarios y de ahí viene su grandeza.
 
