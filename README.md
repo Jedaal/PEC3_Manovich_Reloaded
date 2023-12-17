@@ -34,7 +34,7 @@ Esta aplicación se ha convertido en una indispensable en muchos de los móviles
 
 Podemos ver entonces como la hibridación de medios es palpable en ella. Para empezar vamos a desarrollar cada parte de la que consta.
 
-## Geolocalización y Mapas interactivos
+- ## Geolocalización y Mapas interactivos
 
 Utiliza el GPS para obtener la geolocalización en tiempo real del usuario y la muestra en mapas interactivos que se van actualizando también en tiempo real. Proporciona una representación visual dinámica y precisa del entorno vial. Esta innovación no solo facilita la orientación y el tránsito, sino que también enriquece la experiencia del usuario, permitiendo una interacción directa con el mapa.
 
