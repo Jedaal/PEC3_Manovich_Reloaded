@@ -1,5 +1,8 @@
 # PEC3_Manovich_Reloaded
 
+## Alumno: Javier Carmona Martinez
+### Cultura digital. Grado en Multimedia UOC
+
 
 ![Logo](logo.png)
 
