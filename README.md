@@ -79,6 +79,8 @@ La interfaz de usuario de Citymapper es un ejemplo de diseño interactivo y pers
 
 Citymapper muestra su hibridación de medios a través de su capacidad para integrarse con otras aplicaciones y servicios. Esto incluye la compatibilidad con calendarios para planificar viajes en función de eventos programados y la integración con servicios de transporte compartido. Esta conectividad ofrece una experiencia de usuario más holística y coherente, donde diferentes aspectos de la vida diaria y las tecnologías se unen de manera eficiente y útil.
 
+# La hibridacion en mi cabeza y con las gafas de Manovich
+
 ![imaginando](imaginando.png)
 
 He destacado los aspectos más importantes y relevantes de cada aplicación y creo que de esta forma se ve claramente que es la hibridación y como se da en estas dos apps.
