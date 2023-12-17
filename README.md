@@ -27,6 +27,8 @@ Podemos resumir de forma breve lo que en mi parecer Manovich quiere decirnos sob
 5. **Personalización y Datos:**
    Finalmente, Manovich discute cómo el software permite una personalización avanzada de experiencias mediáticas, utilizando algoritmos y análisis de datos para adaptar el contenido a las preferencias individuales de los usuarios.
 
+   ![idea2](idea2.jpeg) 
+
 # **Medios hibridados** 
 ## Waze y CityMaper
 
