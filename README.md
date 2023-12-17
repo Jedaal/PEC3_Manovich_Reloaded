@@ -50,3 +50,25 @@ La interfaz de usuario de Citymapper es un ejemplo de diseño interactivo y pers
 ## Conectividad y Compatibilidad en Citymapper
 
 Citymapper muestra su hibridación de medios a través de su capacidad para integrarse con otras aplicaciones y servicios. Esto incluye la compatibilidad con calendarios para planificar viajes en función de eventos programados y la integración con servicios de transporte compartido. Esta conectividad ofrece una experiencia de usuario más holística y coherente, donde diferentes aspectos de la vida diaria y las tecnologías se unen de manera eficiente y útil.
+
+#Como entender la hibridacion.
+
+Podemos resumir de forma breve lo que en mi parecer Manovich quiere decirnos sobre la hibridacion en los medio de esta forma.
+
+# La Visión de Lev Manovich sobre la Hibridación en "El software toma el mando"
+
+1. **Convergencia Mediática:**
+   Manovich destaca cómo el software permite la convergencia de diferentes medios, como texto, imagen, video y sonido, en plataformas y formatos digitales unificados. Esto lleva a la creación de experiencias mediáticas ricas y multidimensionales.
+
+2. **Nuevas Formas de Narrativa:**
+   La hibridación a través del software abre nuevas posibilidades para la narrativa y el arte, permitiendo a los creadores mezclar y combinar diferentes géneros y formatos para contar historias de maneras innovadoras.
+
+3. **Cultura del Remix:**
+   Manovich a menudo se refiere a la cultura del "remix", donde el software facilita la reutilización y combinación de contenidos existentes para crear nuevas obras, lo que refleja un cambio en la forma en que entendemos la autoría y la creatividad.
+
+4. **Interactividad y Participación del Usuario:**
+   El software también permite una mayor interactividad y participación del usuario, lo que significa que la experiencia de los medios ya no es unidireccional, sino que se convierte en un diálogo entre el creador y el consumidor.
+
+5. **Personalización y Datos:**
+   Finalmente, Manovich discute cómo el software permite una personalización avanzada de experiencias mediáticas, utilizando algoritmos y análisis de datos para adaptar el contenido a las preferencias individuales de los usuarios.
+
