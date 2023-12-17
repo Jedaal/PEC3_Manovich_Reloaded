@@ -59,6 +59,7 @@ Waze integra las redes sociales en su plataforma, creando una experiencia de nav
 La gamificación y personalización en Waze representan un avance significativo en la interacción usuario-aplicación. Los usuarios son incentivados a reportar incidentes y condiciones de tráfico, ganando puntos y logros, lo que fomenta una participación activa y constante. Esta mecánica de juego no solo hace que la experiencia de navegación sea más atractiva, sino que también mejora la calidad y cantidad de datos recolectados, beneficiando
 
 # CityMaper
+![city](city.png)
 
 Personalemnte solo he usado esta aplicacion en Bruselas y me parecio de lo mas interesante para poder moverse con soltura por una ciudad desconocida. Repasmos sus puntos mas destacados.
 
