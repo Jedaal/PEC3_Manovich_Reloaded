@@ -61,7 +61,7 @@ La gamificación y personalización en Waze representan un avance significativo 
 # CityMaper
 ![city](city.jpeg)
 
-Personalemnte solo he usado esta aplicacion en Bruselas y me parecio de lo mas interesante para poder moverse con soltura por una ciudad desconocida. Repasmos sus puntos mas destacados.
+Personalemnte no he usado esta aplicacion, me muevo en coche, pero por lo que he tenido la oportunidad de leer para escribir esto, me ha parecido bastante potente. Admeas de que integra aplicaciones de terceros como coches de alquiler y Uber.
 
 - ## Integración Multimodal de Transporte en Citymapper
 
@@ -86,8 +86,11 @@ Citymapper muestra su hibridación de medios a través de su capacidad para inte
 He destacado los aspectos más importantes y relevantes de cada aplicación y creo que de esta forma se ve claramente que es la hibridación y como se da en estas dos apps.
 **Waze**, que es la que uso casi a diario. No solo es un mapa de calles y carreteras, es una red social de conductores, es un mundo interactivo y cambiante que te permite no solo llegar a tu destino, sino que lo haces de la forma mas eficiente y evitando cualquier obstáculo que te pudieras encontrar. 
 
-**Y aquí esta el ejemplo**. 
+**Y aquí esta el ejemplo**.
+
 Un mapa convencional te podría calcular la mejor ruta, pero no te sabe decir que en el PK 150 de la A2 sentido Madrid hay un “vehículo detenido en el arcén mas adelante”. Y no solo eso, te permite participar de este evento indicando si sigue o no ahí. Al margen de lo rico que es esto para los conductores, nos tenemos que fijar en como se han fusionado las aplicaciones de mensajería instantánea. Un usuario ha puesto un aviso y te a llegado a ti y al resto de usuarios de **Waze** que van por esa misma ruta; las aplicaciones de orientación y mapas GPS. El mapa se ha modificado en tiempo real y si es necesario calculara una nueva ruta.
+
+
 
 
 
