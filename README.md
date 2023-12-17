@@ -100,5 +100,6 @@ Un mapa convencional te podría calcular la mejor ruta, pero no te sabe decir qu
 
 - Manovich, Lev. (2013). _El Software toma el mando_. Barcelona: Editorial UOC.
 - Xatakandroid Waze y GoogleMaps:  [https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion] (https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion)
+- Xatakamovil: [https://www.xatakamovil.com/aplicaciones/citymapper-suma-una-nueva-opcion-de-transporte-en-madrid-uberx] (https://www.xatakamovil.com/aplicaciones/citymapper-suma-una-nueva-opcion-de-transporte-en-madrid-uberx)
 
 
