@@ -102,7 +102,7 @@ Citymapper muestra su hibridación de medios a través de su capacidad para inte
 
 _Hibridacion:_ muestra su hibridación de medios a través de su capacidad para integrarse con otras aplicaciones y servicios.
 
-# La hibridacion en mi cabeza y con las gafas de Manovich
+# La hibridacion tal como yo la veo y con las gafas de Manovich.
 
 ![imaginando](imaginando.png)
 
