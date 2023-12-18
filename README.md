@@ -120,8 +120,8 @@ Un mapa convencional te podría calcular la mejor ruta, pero no te sabe decir qu
 # Referencias y Bibliografía
 
 - Manovich, Lev. (2013). _El Software toma el mando_. Barcelona: Editorial UOC.
-- Xatakandroid Waze y GoogleMaps:(https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion)
-- Xatakamovil: [https://www.xatakamovil.com/aplicaciones/citymapper-suma-una-nueva-opcion-de-transporte-en-madrid-uberx] (https://www.xatakamovil.com/aplicaciones/citymapper-suma-una-nueva-opcion-de-transporte-en-madrid-uberx)
-- Cultura del remix [https://discursocuatro.files.wordpress.com/2016/04/manovich-quecc81-viene-despuecc81s-del-remix.pdf] (https://discursocuatro.files.wordpress.com/2016/04/manovich-quecc81-viene-despuecc81s-del-remix.pdf)
+- Xatakandroid Waze y GoogleMaps: (https://www.xatakandroid.com/listas/google-maps-vs-waze-comparativa-a-fondo-que-app-tiene-mejores-opciones-navegacion)
+- Xatakamovil: (https://www.xatakamovil.com/aplicaciones/citymapper-suma-una-nueva-opcion-de-transporte-en-madrid-uberx)
+- Cultura del remix: (https://discursocuatro.files.wordpress.com/2016/04/manovich-quecc81-viene-despuecc81s-del-remix.pdf)
 
 
